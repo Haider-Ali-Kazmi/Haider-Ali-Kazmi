@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Haider-Ali-Kazmi
-- 👀 I’m interested in developing vide games.
+- 👀 I’m interested in developing video games.
 - 🌱 I’m currently learning the world of mobile games, specifically the Hyper-Casual-Genre.
 
 - 📫 How to reach me ...
