@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Haider-Ali-Kazmi
 - 👀 I’m interested in developing video games.
-- 🌱 I’m currently learning the world of mobile games, specifically the Hyper-Casual-Genre.
+- 🌱 Currently working on a mid core mobile sports simulation game
 
-- 📫 How to reach me ...
+- 📫 How to reach me
 
 <!---
 Haider-Ali-Kazmi/Haider-Ali-Kazmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
